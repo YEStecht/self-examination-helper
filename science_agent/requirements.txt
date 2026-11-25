@@ -1,0 +1,6 @@
+openai-agents
+openai
+streamlit
+requests
+beautifulsoup4
+uv
